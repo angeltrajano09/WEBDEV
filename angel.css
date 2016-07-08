@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body{
+background-color:pink;
+color:white;
+font-FAMILY:"Monotype Corsiva";
+font-size:100px;
+
+}
+
+p.text1{
+font-family:Arial; 
+font-size:20px;
+color:black;
+}
+
+p.text2{
+font-family:Arial; 
+font-size:20px;
+color:black;
+}
+
+img{
+<img style="float: right";" margin: 0px 15px 15px 0px;" src="img src="img/e.jpg" />
+}
+img{
+<img style="float: left"; "margin: 0px 15px 15px 0px;" src="img src="img/f.jpg" />
+}
